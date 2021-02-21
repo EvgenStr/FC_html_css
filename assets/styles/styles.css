@@ -6,12 +6,22 @@ img {
   max-width: 80%;
 }
 header {
-  background-color: rgb(247, 165, 136);
+  background-color: rgb(230, 247, 136);
+  padding: 15px 0 0 0;
+}
+h1 {
+  text-align: center;
 }
 nav {
   font-size: 1.3em;
-  font-family: 'Roboto Slab', 'Arial', serif, sans-serif;
+  font-family: "Roboto Slab", "Arial", serif, sans-serif;
+  background-color: rgb(247, 165, 136);
+  padding: 15px 0 15px 25px;
 }
 a {
   text-decoration: none;
+  color: darkgreen;
+}
+ol {
+  margin: 0;
 }

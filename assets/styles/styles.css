@@ -1,6 +1,7 @@
 .main-content {
   width: 70%;
   margin: 0 auto;
+  padding-bottom: 150px;
 }
 img {
   max-width: 80%;
@@ -32,4 +33,9 @@ article {
 }
 article>p{
   max-width: 90%;
+}
+article>a{
+  font-size: 1.2em;
+  color: darkolivegreen;
+  font-weight: bolder;
 }

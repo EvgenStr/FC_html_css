@@ -25,3 +25,11 @@ a {
 ol {
   margin: 0;
 }
+
+article {
+  font-size: 1.3em;
+  font-family: "Raleway", "Arial", sans-serif;
+}
+article>p{
+  max-width: 90%;
+}

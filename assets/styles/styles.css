@@ -1,8 +1,10 @@
 .main-content{
   width: 70%;
-  /* height: 80%; */
   margin: 0 auto;
 }
 img{
   max-width: 80%;
+}
+header {
+  background-color: rgb(247, 165, 136);
 }

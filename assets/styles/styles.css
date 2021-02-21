@@ -31,10 +31,10 @@ article {
   font-size: 1.3em;
   font-family: "Raleway", "Arial", sans-serif;
 }
-article>p{
+article > p {
   max-width: 90%;
 }
-article>a{
+article > a {
   font-size: 1.2em;
   color: darkolivegreen;
   font-weight: bolder;
